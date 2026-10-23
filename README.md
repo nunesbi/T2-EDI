@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Linguagem-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="Linguagem C">
   <img src="https://img.shields.io/badge/Disciplina-Estruturas%20de%20Dados%20I-6C63FF?style=for-the-badge" alt="Disciplina">
-  <img src="https://img.shields.io/badge/Status-Em%20desenvolvimento-orange?style=for-the-badge" alt="Status do projeto">
+  <img src="https://img.shields.io/badge/Status-Finalizado-green?style=for-the-badge" alt="Status do projeto">
 </p>
 
 Sistema desenvolvido em linguagem C para o gerenciamento de um catálogo de produtos, aplicando conceitos de **estruturas de dados, algoritmos de busca, algoritmos de ordenação e análise de desempenho**.
